@@ -3,6 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 name 'bdev-leo2civ-ratio'
+author 'BDevelopment'
 description 'Shows the LEO / Fire-EMS / Civilian player ratio (/ratio + on-join HUD)'
 version '1.0.0'
 
